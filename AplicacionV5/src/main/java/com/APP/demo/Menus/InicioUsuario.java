@@ -40,7 +40,7 @@ public class InicioUsuario {
 			num2 = scanner.nextInt();
 			if (num2 == 1) {
 				System.out.println("Ingrese su contraseña");
-				email = scanner.next();
+				contraseña = scanner.next();
 			}
 		}
 		if (num2==2) {
